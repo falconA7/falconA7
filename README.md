@@ -4,7 +4,7 @@
 --I'm Japanese university student learning bussiness at the uni and learning frontend engineering by mysself.  
 
 
---Ilove react & typeScript.  
+--I love react & typeScript.  
 --I have been developing my repogitories day by day.  
 --Please contact me through my e-mail account.
 
