@@ -9,22 +9,9 @@ I have been developing my repositories day by day.
 Please contact me through my e-mail account.  
 
 ## 🛠 Tech Stack
-
-<p align="left">
-  <a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  </a>
-</p>
-
+  
+[![HTML badge](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/ja/docs/Web/HTML)
+[![CSS badge](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/ja/docs/Web/CSS)
+[![JavaScript badge](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[![TypeScript badge](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/ja/)
+[![React badge](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)](https://ja.react.dev/)
