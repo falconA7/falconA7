@@ -1,4 +1,4 @@
-<h1 text-align:center>
+<h1>
   Hi there it's falconA7
 </h1>
 
